@@ -1,0 +1,12 @@
+# إذا لم يكن لديك بيئة افتراضية
+python -m venv venv
+
+# تفعيل البيئة الافتراضية
+# على Windows:
+venv\Scripts\activate
+
+# على Mac/Linux:
+source venv/bin/activate
+
+# ثم تثبيت المتطلبات
+pip install -r requirements.txt

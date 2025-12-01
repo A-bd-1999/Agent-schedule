@@ -1,0 +1,7 @@
+langgraph>=0.0.40
+langchain-ollama>=1.0.0
+langchain-core>=0.1.46
+pydantic>=2.5.0
+pandas>=2.0.3
+openpyxl>=3.1.2
+python-dotenv>=1.0.0
